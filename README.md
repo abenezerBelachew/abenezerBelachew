@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 
+🔭 
 <!-- 
 - 🌱 Currently learning React with GraphQL
 - 👯 Looking to collaborate on Django/DRF, Electron and Vue projects
